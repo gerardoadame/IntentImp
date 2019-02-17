@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IntentImp</string>
+    <string name="btn1">Telefono</string>
+    <string name="btn2">Llamar</string>
+    <string name="btn3">Navegacion</string>
+</resources>
